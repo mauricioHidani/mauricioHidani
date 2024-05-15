@@ -1,7 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-<link rel="stylesheet" src="main-style.css">
+<link rel="stylesheet" src="https://raw.githubusercontent.com/mauricioHidani/mauricioHidani/main/main-style.css">
 
 <h1>Mauricio Mityo Hidani</h1>
 
