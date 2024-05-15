@@ -3,6 +3,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
 <link rel="stylesheet" src="main-style.css">
 
+<h1>Mauricio Mityo Hidani</h1>
+
 <!--
 **mauricioHidani/mauricioHidani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
